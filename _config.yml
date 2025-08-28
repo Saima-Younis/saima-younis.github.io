@@ -1,9 +1,7 @@
-title: "<Your Name>'s Blog"
+title: "Saima Younis — Blog"
 description: "Outreachy application blog"
 theme: minima
-url: "https://<yourusername>.github.io"
-timezone: "America/New_York"
-
-# Enable RSS feed (GitHub Pages supports this plugin)
+url: "https://saima-younis.github.io"
 plugins:
   - jekyll-feed
+
